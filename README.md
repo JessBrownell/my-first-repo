@@ -2,6 +2,6 @@ Hello!
 
 Readme
 
-![](./cat.jfif)
-![](./cat2.gif)
-![](./cat3.gif)
+![Cute cat](./cat.jfif)
+![Pink cat](./cat2.gif)
+![Snowy cat](./cat3.gif)
